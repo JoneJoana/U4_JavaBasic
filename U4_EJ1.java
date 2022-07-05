@@ -5,6 +5,7 @@ public class U4_EJ1 {
 		
 		int num1 = 10;
 		int num2 = 3;
+		
 		int suma = num1 + num2;
 		int resta = num1 - num2;
 		int mult = num1 * num2;
