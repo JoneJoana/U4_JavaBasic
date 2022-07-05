@@ -6,7 +6,6 @@ public class U4_EJ5 {
 		int B = 3;
 		int C = 4;
 		int D = 5;
-		int change = 0;
 		
 		B = C; //B vale ahora 4;
 		C = A; //C vale ahora 2;
