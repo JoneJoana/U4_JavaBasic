@@ -3,6 +3,7 @@ public class U4_EJ3 {
 
 	public static void main(String[] args) {
 		
+		//inicializacion de variables
 		int X = 2;
 		int Y = 4;
 		double N = 3.55;
@@ -35,8 +36,7 @@ public class U4_EJ3 {
 		System.out.println("M*2 = "+M*2);
 		
 		System.out.println("Suma de todas las variables = "+(X+Y+N+M));
-		System.out.println("Producto de todas las variables = "+X*Y*N*M);
-		
+		System.out.println("Producto de todas las variables = "+X*Y*N*M);		
 		
 	}
 
