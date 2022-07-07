@@ -1,5 +1,5 @@
 
-public class U4_EJ2 {
+public class U4_EJ2App {
 
 	public static void main(String[] args) {
 
